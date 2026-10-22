@@ -1,4 +1,4 @@
-# AI-Powered Resume Matcher
+# MatchCV
 
 An intelligent resume matching system that uses Google's Gemini AI to analyze resumes against job descriptions and provide detailed matching insights.
 
